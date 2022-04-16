@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright © Bisitsoft 2022</Copyright>
+    <Description>Our official website: https://www.ourorangenet.com .</Description>
+    <Authors>Orange233</Authors>
+    <Company>Bisitsoft</Company>
+    <PackageProjectUrl>https://github.com/Orange23333/FindCard</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,19 @@
+//没必要，只需要等级注册或修正学生信息即可。
+
+using System.Collections.Generic;
+
+namespace FindCard.Lib
+{
+    public class LostInfo
+    {
+        public class LostInfoWithoutId
+        {
+            private string ownerInfo;
+            private string studentId;
+        }
+
+        private string lostId;
+        private LostInfoWithoutId info;
+        private List<LostInfoWithoutId> hisoricalInfo;
+    }
+}
